@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngmin-gwon&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=youngmin-gwon&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=youngmin-gwon)
+![Youngmin's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=youngmin-gwon)
 
 <br>
