@@ -45,10 +45,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align=center>
-	<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngmin-gwon&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=youngmin-gwon&show_icons=true">
-
-![Youngmin's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=youngmin-gwon)
-
 <br>
