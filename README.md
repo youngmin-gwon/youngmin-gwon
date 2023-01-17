@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white" />
-	<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white" />
 </div>
 <br>
 <div align=center>
