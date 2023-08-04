@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
 	<img src="https://img.shields.io/badge/Alacritty-F46D01?style=flat&logo=Alacritty&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tmux-1BB91F?style=flat&logo=Tmux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white" />
