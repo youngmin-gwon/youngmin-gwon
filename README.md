@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<p>✨ Frameworks & Languages ✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
