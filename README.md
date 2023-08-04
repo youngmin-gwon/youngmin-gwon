@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 	<p>✨ Frameworks & Languages ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
-	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
+	<img src="https://img.shields.io/badge/Flutter-1CC9FA?style=flat&logo=Flutter&logoColor=white" />
+	<p> & </p>
+	<img src="https://img.shields.io/badge/Dart-37BAF7?style=flat&logo=Dart&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white" />
 </div>
